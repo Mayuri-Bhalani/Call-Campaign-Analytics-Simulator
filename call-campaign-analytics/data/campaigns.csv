@@ -1,0 +1,6 @@
+campaign_id,name,type,status,start_date,end_date,target_contacts,dialer
+CMP001,Q2 Collections Drive,Outbound,Active,2026-04-01,2026-06-30,5000,Five9
+CMP002,Product Renewal Outreach,Outbound,Active,2026-05-01,2026-05-31,3000,Twilio
+CMP003,Customer Support Inbound,Inbound,Active,2026-01-01,2026-12-31,10000,Acqueon
+CMP004,Win-Back Campaign,Outbound,Paused,2026-03-15,2026-06-15,2000,RingCentral
+CMP005,New Leads May Blast,Outbound,Active,2026-05-15,2026-05-31,1500,Five9

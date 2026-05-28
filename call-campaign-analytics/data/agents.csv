@@ -1,0 +1,21 @@
+agent_id,name,skill,status,tenure_months,target_calls
+AGT001,Priya Smith,Collections,Active,9,80
+AGT002,Priya Lewis,Inbound,On Break,3,60
+AGT003,Kevin Kim,Outbound,On Break,2,80
+AGT004,Omar Lewis,Sales,Active,38,70
+AGT005,James Williams,Sales,Active,10,60
+AGT006,Tyler Patel,Inbound,Active,23,70
+AGT007,Mei Davis,Inbound,Offline,35,60
+AGT008,Raj Chen,Support,Active,41,80
+AGT009,Nina Robinson,Outbound,Offline,3,80
+AGT010,Linda Martinez,Inbound,In Call,56,60
+AGT011,Raj Davis,Sales,Offline,24,60
+AGT012,Nina Anderson,Outbound,Offline,45,80
+AGT013,Kevin Walker,Outbound,On Break,16,60
+AGT014,Chris Taylor,Collections,In Call,41,80
+AGT015,Julia Brown,Collections,In Call,50,60
+AGT016,Linda Garcia,Collections,Active,5,60
+AGT017,Andre Wilson,Outbound,Offline,26,80
+AGT018,Chris Johnson,Collections,Active,48,80
+AGT019,Julia Davis,Support,Active,38,70
+AGT020,Nina Brown,Outbound,On Break,6,60

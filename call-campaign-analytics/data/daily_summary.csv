@@ -1,0 +1,151 @@
+date,campaign_id,campaign_name,dialer,total_calls,connected,avg_duration,total_duration,contact_rate
+2026-04-28,CMP001,Q2 Collections Drive,Five9,62,16,100,1.72,25.8
+2026-04-28,CMP002,Product Renewal Outreach,Twilio,41,15,174,1.98,36.6
+2026-04-28,CMP003,Customer Support Inbound,Acqueon,53,21,154,2.27,39.6
+2026-04-28,CMP004,Win-Back Campaign,RingCentral,20,6,113,0.63,30.0
+2026-04-28,CMP005,New Leads May Blast,Five9,32,11,130,1.16,34.4
+2026-04-29,CMP001,Q2 Collections Drive,Five9,80,19,89,1.97,23.8
+2026-04-29,CMP002,Product Renewal Outreach,Twilio,45,17,123,1.54,37.8
+2026-04-29,CMP003,Customer Support Inbound,Acqueon,77,32,180,3.85,41.6
+2026-04-29,CMP004,Win-Back Campaign,RingCentral,20,2,47,0.26,10.0
+2026-04-29,CMP005,New Leads May Blast,Five9,36,13,170,1.7,36.1
+2026-04-30,CMP001,Q2 Collections Drive,Five9,58,17,116,1.87,29.3
+2026-04-30,CMP002,Product Renewal Outreach,Twilio,51,19,131,1.85,37.3
+2026-04-30,CMP003,Customer Support Inbound,Acqueon,46,16,144,1.83,34.8
+2026-04-30,CMP004,Win-Back Campaign,RingCentral,20,7,101,0.56,35.0
+2026-04-30,CMP005,New Leads May Blast,Five9,20,6,139,0.77,30.0
+2026-05-01,CMP001,Q2 Collections Drive,Five9,68,27,172,3.25,39.7
+2026-05-01,CMP002,Product Renewal Outreach,Twilio,44,12,120,1.46,27.3
+2026-05-01,CMP003,Customer Support Inbound,Acqueon,63,24,195,3.41,38.1
+2026-05-01,CMP004,Win-Back Campaign,RingCentral,29,7,111,0.9,24.1
+2026-05-01,CMP005,New Leads May Blast,Five9,33,10,138,1.26,30.3
+2026-05-02,CMP001,Q2 Collections Drive,Five9,33,14,187,1.71,42.4
+2026-05-02,CMP002,Product Renewal Outreach,Twilio,11,6,266,0.81,54.5
+2026-05-02,CMP003,Customer Support Inbound,Acqueon,21,5,88,0.51,23.8
+2026-05-02,CMP004,Win-Back Campaign,RingCentral,5,2,206,0.29,40.0
+2026-05-02,CMP005,New Leads May Blast,Five9,17,6,171,0.81,35.3
+2026-05-03,CMP001,Q2 Collections Drive,Five9,22,6,151,0.92,27.3
+2026-05-03,CMP002,Product Renewal Outreach,Twilio,23,11,262,1.68,47.8
+2026-05-03,CMP003,Customer Support Inbound,Acqueon,29,14,214,1.72,48.3
+2026-05-03,CMP004,Win-Back Campaign,RingCentral,10,3,94,0.26,30.0
+2026-05-03,CMP005,New Leads May Blast,Five9,10,4,186,0.52,40.0
+2026-05-04,CMP001,Q2 Collections Drive,Five9,111,42,147,4.53,37.8
+2026-05-04,CMP002,Product Renewal Outreach,Twilio,60,20,144,2.41,33.3
+2026-05-04,CMP003,Customer Support Inbound,Acqueon,52,18,121,1.75,34.6
+2026-05-04,CMP004,Win-Back Campaign,RingCentral,24,7,146,0.98,29.2
+2026-05-04,CMP005,New Leads May Blast,Five9,39,12,135,1.46,30.8
+2026-05-05,CMP001,Q2 Collections Drive,Five9,95,41,159,4.19,43.2
+2026-05-05,CMP002,Product Renewal Outreach,Twilio,41,15,136,1.55,36.6
+2026-05-05,CMP003,Customer Support Inbound,Acqueon,81,31,152,3.42,38.3
+2026-05-05,CMP004,Win-Back Campaign,RingCentral,30,12,184,1.54,40.0
+2026-05-05,CMP005,New Leads May Blast,Five9,48,11,97,1.3,22.9
+2026-05-06,CMP001,Q2 Collections Drive,Five9,67,29,167,3.1,43.3
+2026-05-06,CMP002,Product Renewal Outreach,Twilio,49,14,117,1.59,28.6
+2026-05-06,CMP003,Customer Support Inbound,Acqueon,40,15,162,1.8,37.5
+2026-05-06,CMP004,Win-Back Campaign,RingCentral,20,8,141,0.78,40.0
+2026-05-06,CMP005,New Leads May Blast,Five9,33,15,192,1.76,45.5
+2026-05-07,CMP001,Q2 Collections Drive,Five9,80,25,131,2.92,31.2
+2026-05-07,CMP002,Product Renewal Outreach,Twilio,54,13,94,1.41,24.1
+2026-05-07,CMP003,Customer Support Inbound,Acqueon,57,19,136,2.16,33.3
+2026-05-07,CMP004,Win-Back Campaign,RingCentral,14,3,144,0.56,21.4
+2026-05-07,CMP005,New Leads May Blast,Five9,38,11,137,1.45,28.9
+2026-05-08,CMP001,Q2 Collections Drive,Five9,78,28,172,3.73,35.9
+2026-05-08,CMP002,Product Renewal Outreach,Twilio,68,17,116,2.2,25.0
+2026-05-08,CMP003,Customer Support Inbound,Acqueon,85,24,124,2.93,28.2
+2026-05-08,CMP004,Win-Back Campaign,RingCentral,39,15,137,1.48,38.5
+2026-05-08,CMP005,New Leads May Blast,Five9,39,16,178,1.92,41.0
+2026-05-09,CMP001,Q2 Collections Drive,Five9,29,12,157,1.26,41.4
+2026-05-09,CMP002,Product Renewal Outreach,Twilio,19,6,178,0.94,31.6
+2026-05-09,CMP003,Customer Support Inbound,Acqueon,23,10,167,1.07,43.5
+2026-05-09,CMP004,Win-Back Campaign,RingCentral,7,1,82,0.16,14.3
+2026-05-09,CMP005,New Leads May Blast,Five9,13,4,130,0.47,30.8
+2026-05-10,CMP001,Q2 Collections Drive,Five9,34,18,172,1.63,52.9
+2026-05-10,CMP002,Product Renewal Outreach,Twilio,31,7,95,0.82,22.6
+2026-05-10,CMP003,Customer Support Inbound,Acqueon,33,9,99,0.9,27.3
+2026-05-10,CMP004,Win-Back Campaign,RingCentral,10,2,92,0.25,20.0
+2026-05-10,CMP005,New Leads May Blast,Five9,8,3,202,0.45,37.5
+2026-05-11,CMP001,Q2 Collections Drive,Five9,75,31,154,3.22,41.3
+2026-05-11,CMP002,Product Renewal Outreach,Twilio,47,15,117,1.53,31.9
+2026-05-11,CMP003,Customer Support Inbound,Acqueon,44,15,125,1.52,34.1
+2026-05-11,CMP004,Win-Back Campaign,RingCentral,19,2,72,0.38,10.5
+2026-05-11,CMP005,New Leads May Blast,Five9,30,10,146,1.22,33.3
+2026-05-12,CMP001,Q2 Collections Drive,Five9,58,16,115,1.85,27.6
+2026-05-12,CMP002,Product Renewal Outreach,Twilio,40,12,144,1.6,30.0
+2026-05-12,CMP003,Customer Support Inbound,Acqueon,61,24,165,2.8,39.3
+2026-05-12,CMP004,Win-Back Campaign,RingCentral,30,13,189,1.57,43.3
+2026-05-12,CMP005,New Leads May Blast,Five9,37,14,104,1.06,37.8
+2026-05-13,CMP001,Q2 Collections Drive,Five9,86,30,146,3.5,34.9
+2026-05-13,CMP002,Product Renewal Outreach,Twilio,46,12,72,0.92,26.1
+2026-05-13,CMP003,Customer Support Inbound,Acqueon,46,13,130,1.66,28.3
+2026-05-13,CMP004,Win-Back Campaign,RingCentral,21,7,168,0.98,33.3
+2026-05-13,CMP005,New Leads May Blast,Five9,34,9,129,1.22,26.5
+2026-05-14,CMP001,Q2 Collections Drive,Five9,79,33,147,3.23,41.8
+2026-05-14,CMP002,Product Renewal Outreach,Twilio,47,17,163,2.13,36.2
+2026-05-14,CMP003,Customer Support Inbound,Acqueon,63,19,141,2.46,30.2
+2026-05-14,CMP004,Win-Back Campaign,RingCentral,21,12,186,1.08,57.1
+2026-05-14,CMP005,New Leads May Blast,Five9,45,18,157,1.96,40.0
+2026-05-15,CMP001,Q2 Collections Drive,Five9,63,20,138,2.41,31.7
+2026-05-15,CMP002,Product Renewal Outreach,Twilio,44,17,145,1.77,38.6
+2026-05-15,CMP003,Customer Support Inbound,Acqueon,40,11,127,1.41,27.5
+2026-05-15,CMP004,Win-Back Campaign,RingCentral,20,6,181,1.01,30.0
+2026-05-15,CMP005,New Leads May Blast,Five9,17,7,147,0.7,41.2
+2026-05-16,CMP001,Q2 Collections Drive,Five9,33,15,218,1.99,45.5
+2026-05-16,CMP002,Product Renewal Outreach,Twilio,19,12,193,1.02,63.2
+2026-05-16,CMP003,Customer Support Inbound,Acqueon,25,9,171,1.19,36.0
+2026-05-16,CMP004,Win-Back Campaign,RingCentral,13,5,151,0.54,38.5
+2026-05-16,CMP005,New Leads May Blast,Five9,16,9,224,0.99,56.2
+2026-05-17,CMP001,Q2 Collections Drive,Five9,19,7,142,0.75,36.8
+2026-05-17,CMP002,Product Renewal Outreach,Twilio,13,6,82,0.29,46.2
+2026-05-17,CMP003,Customer Support Inbound,Acqueon,11,4,146,0.44,36.4
+2026-05-17,CMP004,Win-Back Campaign,RingCentral,10,3,149,0.41,30.0
+2026-05-17,CMP005,New Leads May Blast,Five9,10,1,74,0.2,10.0
+2026-05-18,CMP001,Q2 Collections Drive,Five9,89,34,174,4.3,38.2
+2026-05-18,CMP002,Product Renewal Outreach,Twilio,48,11,82,1.09,22.9
+2026-05-18,CMP003,Customer Support Inbound,Acqueon,52,19,150,2.17,36.5
+2026-05-18,CMP004,Win-Back Campaign,RingCentral,33,6,107,0.98,18.2
+2026-05-18,CMP005,New Leads May Blast,Five9,40,15,165,1.83,37.5
+2026-05-19,CMP001,Q2 Collections Drive,Five9,75,23,133,2.77,30.7
+2026-05-19,CMP002,Product Renewal Outreach,Twilio,44,18,187,2.28,40.9
+2026-05-19,CMP003,Customer Support Inbound,Acqueon,66,28,204,3.75,42.4
+2026-05-19,CMP004,Win-Back Campaign,RingCentral,36,8,98,0.98,22.2
+2026-05-19,CMP005,New Leads May Blast,Five9,32,13,178,1.58,40.6
+2026-05-20,CMP001,Q2 Collections Drive,Five9,101,40,157,4.4,39.6
+2026-05-20,CMP002,Product Renewal Outreach,Twilio,70,22,134,2.6,31.4
+2026-05-20,CMP003,Customer Support Inbound,Acqueon,71,20,121,2.38,28.2
+2026-05-20,CMP004,Win-Back Campaign,RingCentral,32,12,175,1.55,37.5
+2026-05-20,CMP005,New Leads May Blast,Five9,46,16,121,1.55,34.8
+2026-05-21,CMP001,Q2 Collections Drive,Five9,44,17,145,1.77,38.6
+2026-05-21,CMP002,Product Renewal Outreach,Twilio,54,19,146,2.19,35.2
+2026-05-21,CMP003,Customer Support Inbound,Acqueon,54,19,157,2.36,35.2
+2026-05-21,CMP004,Win-Back Campaign,RingCentral,28,7,116,0.9,25.0
+2026-05-21,CMP005,New Leads May Blast,Five9,21,9,196,1.14,42.9
+2026-05-22,CMP001,Q2 Collections Drive,Five9,69,20,122,2.33,29.0
+2026-05-22,CMP002,Product Renewal Outreach,Twilio,53,15,110,1.61,28.3
+2026-05-22,CMP003,Customer Support Inbound,Acqueon,76,27,130,2.75,35.5
+2026-05-22,CMP004,Win-Back Campaign,RingCentral,32,9,131,1.17,28.1
+2026-05-22,CMP005,New Leads May Blast,Five9,25,16,222,1.54,64.0
+2026-05-23,CMP001,Q2 Collections Drive,Five9,29,11,152,1.23,37.9
+2026-05-23,CMP002,Product Renewal Outreach,Twilio,16,9,177,0.79,56.2
+2026-05-23,CMP003,Customer Support Inbound,Acqueon,19,6,153,0.81,31.6
+2026-05-23,CMP004,Win-Back Campaign,RingCentral,9,2,113,0.28,22.2
+2026-05-23,CMP005,New Leads May Blast,Five9,20,9,148,0.82,45.0
+2026-05-24,CMP001,Q2 Collections Drive,Five9,16,7,163,0.72,43.8
+2026-05-24,CMP002,Product Renewal Outreach,Twilio,10,5,123,0.34,50.0
+2026-05-24,CMP003,Customer Support Inbound,Acqueon,15,4,113,0.47,26.7
+2026-05-24,CMP004,Win-Back Campaign,RingCentral,9,2,73,0.18,22.2
+2026-05-24,CMP005,New Leads May Blast,Five9,12,3,91,0.3,25.0
+2026-05-25,CMP001,Q2 Collections Drive,Five9,93,33,143,3.69,35.5
+2026-05-25,CMP002,Product Renewal Outreach,Twilio,64,19,137,2.43,29.7
+2026-05-25,CMP003,Customer Support Inbound,Acqueon,75,24,109,2.27,32.0
+2026-05-25,CMP004,Win-Back Campaign,RingCentral,30,11,186,1.55,36.7
+2026-05-25,CMP005,New Leads May Blast,Five9,39,11,145,1.57,28.2
+2026-05-26,CMP001,Q2 Collections Drive,Five9,68,16,107,2.01,23.5
+2026-05-26,CMP002,Product Renewal Outreach,Twilio,40,14,128,1.42,35.0
+2026-05-26,CMP003,Customer Support Inbound,Acqueon,55,17,125,1.91,30.9
+2026-05-26,CMP004,Win-Back Campaign,RingCentral,29,10,140,1.12,34.5
+2026-05-26,CMP005,New Leads May Blast,Five9,30,6,107,0.89,20.0
+2026-05-27,CMP001,Q2 Collections Drive,Five9,92,27,126,3.23,29.3
+2026-05-27,CMP002,Product Renewal Outreach,Twilio,62,27,204,3.52,43.5
+2026-05-27,CMP003,Customer Support Inbound,Acqueon,77,28,139,2.98,36.4
+2026-05-27,CMP004,Win-Back Campaign,RingCentral,31,11,160,1.38,35.5
+2026-05-27,CMP005,New Leads May Blast,Five9,46,11,77,0.99,23.9

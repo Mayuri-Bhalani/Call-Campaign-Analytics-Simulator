@@ -2,6 +2,12 @@
 
 > A full-stack analytics dashboard for monitoring call center campaign performance, agent productivity, and KPIs — built with Python (Flask) + Vanilla JS + Chart.js.
 
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/2bd81411-9f2c-4c02-b6bb-9ce3d12e357c" />
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/0216a0f3-a3cd-461e-8c89-57dbc72b6ae6" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/50254934-5052-4df1-b9de-47cbc68436ca" />
+<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/5977c05a-9d32-4b27-af7a-1ef2c2ef075a" />
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/5bc8e136-50a7-41cc-971f-8b2addde3eb7" />
+
 ---
 
 ## 🖥️ Dashboard Preview
